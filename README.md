@@ -5,7 +5,7 @@
 
 
 ---
-![]( https://imgur.com/a/cT6iVez)
+![](https://i.imgur.com/4SQdMvG.jpg)
 
 ## **Features**
 
@@ -15,7 +15,7 @@
 
 **Video**
 -
--[Youtube](https://youtube.com/shorts/PH71AZ4ePe4?feature=share)
+- [Youtube](https://youtube.com/shorts/PH71AZ4ePe4?feature=share)
 
 **Components**  
 -
